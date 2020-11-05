@@ -9,7 +9,7 @@ To [view](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/Screenshots/t
 You can use the data for commerical and non-commerical purposes according to the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode). You must attribute the creator in your own works which in this case would be [Land Information New Zealand](https://www.linz.govt.nz/).
 
 
-Relief shading of HGT file showing Tongariro National Park.
+The image below is a render of the S40E175.hgt file showing Tongariro National Park.
 
 ![alt text](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/Screenshots/tongariro.jpg)
 
