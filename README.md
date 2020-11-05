@@ -18,6 +18,6 @@ Render of S37E175.hgt - Great Barrier and the Coromandel Peninsula (below).
 ![alt text](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/Screenshots/GreatBarrier.jpg)
 
 
-Render of S44E170.hgt - West Coast/Southen Alps (below).
+Render of S44E170.hgt - West Coast/Southern Alps (below).
 ![alt text](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/Screenshots/WestCoast.jpg)
  
