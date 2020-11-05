@@ -16,5 +16,8 @@ The image below is a render of the S40E175.hgt file showing Tongariro National P
  
 Great Barrier and the Coromandel Peninsula (S37E175.hgt).
 ![alt text](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/Screenshots/GreatBarrier.jpg)
- 
+
+
+South Island West Coast/Wouther Alps (S44E170.hgt).
+![alt text](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/Screenshots/WestCoast.jpg)
  
