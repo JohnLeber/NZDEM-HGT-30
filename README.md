@@ -14,10 +14,10 @@ The image below is a render of the S40E175.hgt file showing Tongariro National P
 ![alt text](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/Screenshots/tongariro.jpg)
 
  
-Great Barrier and the Coromandel Peninsula (S37E175.hgt).
+Render of S37E175.hgt - Great Barrier and the Coromandel Peninsula (below).
 ![alt text](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/Screenshots/GreatBarrier.jpg)
 
 
-West Coast/Southen Alps (S44E170.hgt).
+Render of S44E170.hgt - West Coast/Southen Alps (below).
 ![alt text](https://github.com/nodecomplete/NZDEM-HGT-30/blob/master/Screenshots/WestCoast.jpg)
  
