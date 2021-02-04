@@ -6,7 +6,7 @@ I created this dataset back around 2010. It was intended as a resource for the P
 
 To view HGT files:
 1) 3dem can be downloaded from here http://www.visualizationsoftware.com/3dem. 
-2) or see my [HGT-Relief-Map](https://github.com/nodecomplete/HGT-Relief-Map) project for code on how to create renders from the HGT height files. This application was used to create the relief maps in this project (See images below). A complete set of renders of all HGT files can be found in the [images folder](https://github.com/nodecomplete/NZDEM-HGT-30/tree/master/Images).
+2) or see my [HGT-Relief-Map](https://github.com/nodecomplete/HGT-Relief-Map) project for code on how to create renders from the HGT files. This application was used to create the relief maps in this project (see images below). A complete set of renders of all the HGT files can be found in the [images folder](https://github.com/nodecomplete/NZDEM-HGT-30/tree/master/Images).
 
 You can use the data for commerical and non-commerical purposes according to the [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/legalcode). You must attribute the creator in your own works which in this case would be [Land Information New Zealand](https://www.linz.govt.nz/).
 
